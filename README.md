@@ -19,3 +19,5 @@ We choose Green as its primary color, as it is suitable for a retro yet vintage 
 Challenges Faced:
 1. Functionalities - It was hard to implement a functionality, especially to the total amount needed to pay before checkkout. We managed to find some source codes on the internet for this functionality to work, and it works.
 2. File Layout - During the coding process, it was hard to read the code due to the fact that it is cluttered at first. We decided to split each of the pages and utilities to each file to make the whole code clean and free from clutters.
+
+Runthrough video of the app: https://drive.google.com/file/d/1fkgB-nYL4gWJC2ddmP042hRj1d9DhIlk/view?usp=drive_link
