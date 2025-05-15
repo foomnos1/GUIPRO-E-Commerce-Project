@@ -1,16 +1,21 @@
-# guipro_project
+# Retro Game Shop - E-Commerce UI Project
 
-A new Flutter project.
+Members:
+- Francis James Omnos - 2021-2288282
+- Duff Mckygun Girasol - 2021-2287984
+- Luwie Regaspi - 2023-2110585
 
-## Getting Started
+Project Description:
+Retro Game Shop is an E-Commerce app, selling vintage gaming consoles from the 1990s. 
 
-This project is a starting point for a Flutter application.
+Implemented Features:
+- Adds item(s) to the cart.
+- Totals the anount price for payment before checkout.
+- Deletes item(s) from the cart.
 
-A few resources to get you started if this is your first Flutter project:
+Unique Design Choices & Creativity:
+We choose Green as its primary color, as it is suitable for a retro yet vintage style look for this project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Challenges Faced:
+1. Functionalities - It was hard to implement a functionality, especially to the total amount needed to pay before checkkout. We managed to find some source codes on the internet for this functionality to work, and it works.
+2. File Layout - During the coding process, it was hard to read the code due to the fact that it is cluttered at first. We decided to split each of the pages and utilities to each file to make the whole code clean and free from clutters.
