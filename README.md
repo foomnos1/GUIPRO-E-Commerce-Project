@@ -1,6 +1,6 @@
 # Retro Game Shop - E-Commerce UI Project
 
-Members:
+Members
 - Francis James Omnos - 2021-2288282
 - Duff Mckygun Girasol - 2021-2287984
 - Luwie Regaspi - 2023-2110585
