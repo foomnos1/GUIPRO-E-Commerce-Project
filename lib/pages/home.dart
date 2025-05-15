@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Home')),
+      appBar: AppBar(title: Text('Home'),backgroundColor: Colors.green,),
       body: ListView.builder(
         itemCount: products.length,
         itemBuilder: (context, index) {
